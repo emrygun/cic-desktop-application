@@ -1,0 +1,13 @@
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\bin\Debug\ColourInvestigatorCar.exe.config
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\bin\Debug\ColourInvestigatorCar.exe
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\bin\Debug\ColourInvestigatorCar.pdb
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\obj\Debug\ColourInvestigatorCar.csprojAssemblyReference.cache
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\obj\Debug\ColourInvestigatorCar.Form1.resources
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\obj\Debug\ColourInvestigatorCar.Properties.Resources.resources
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\obj\Debug\ColourInvestigatorCar.csproj.GenerateResource.cache
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\obj\Debug\ColourInvestigatorCar.csproj.CoreCompileInputs.cache
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\obj\Debug\ColourInvestigatorCar.exe
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\obj\Debug\ColourInvestigatorCar.pdb
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\obj\Debug\ColourInvestigatorCar.msgBox_1.resources
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\obj\Debug\ColourInvestigatorCar.msgBox_2.resources
+C:\Users\emre6\Desktop\CIC\ColourInvestigatorCar\ColourInvestigatorCar\obj\Debug\ColourInvestigatorCar.msgBox_3.resources
